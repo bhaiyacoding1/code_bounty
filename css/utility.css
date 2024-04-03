@@ -1,0 +1,134 @@
+:is(.section-course) .container,
+  .instructor-containter:first-child{
+  padding: 6.4rem 2.4rem 2.4rem 2.4rem;
+}
+.fa-solid {
+  padding: 2.4rem;
+  background-color: #ebf3fe1d;
+  font-size: 2.4rem;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  color: #003b99;
+}
+.main-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-contact{
+    background-color: black;
+}
+.all-container{
+    background-color: rgb(0, 0, 0);
+  backdrop-filter: blur(50px);
+  box-shadow: 0 1px 15px 5px rgba(255, 255, 255, 0.288);
+}
+.grid {
+    display: grid;
+  }
+  .section-common-subheading{
+    color: rgb(164, 164, 164);
+    font-weight: 400;
+  }
+  .section-common-subheading,
+  .section-common-subheading-about{
+    color: rgb(164, 164, 164);
+    font-weight: 400;
+    line-height: 2;
+  }
+  .section-common--course-pera{
+    color: rgb(164, 164, 164);
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 1.6rem;
+  }
+  
+
+  .section-common-heading {
+    color: white;
+    font-size: 3.2rem;
+    font-weight: 700;
+    text-transform: capitalize;
+  }
+  .section-common-heading-course{
+    color: rgb(255, 255, 255);
+    font-size: 3.2rem;
+    font-weight: 700;
+    line-height: 1.8;
+    text-transform: capitalize;
+  }
+  .section-common-heading-about{
+    color: rgb(255, 255, 255);
+    font-size: 3.2rem;
+    font-weight: 700;
+    line-height: 1.8;
+    text-transform: capitalize;
+  }
+  .section-common-heading {
+    color: rgb(255, 255, 255);
+  }
+  .section-common--title-course{
+    font-size: 2rem;
+    color: rgb(222, 222, 222);
+    font-weight: 00;
+    margin: 2.4rem 0 1.2rem 0;
+  }
+  .section-common--title {
+    font-size: 2rem;
+
+    color: white;
+    margin: 2.4rem 0 1.2rem 0;
+  }
+  .section-common--about-pera{
+    color: rgb(113, 113, 113);
+  }
+  p,
+  label {
+    /* font-family: "Urbanist", sans-serif; */
+    font-size: 1.8rem;
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  label{
+    color: #ffffff;
+  }
+.btn {
+    display: inline-block;
+    padding: 1.2rem 3.2rem;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 0.6rem;
+    -webkit-border-radius: 0.6rem;
+    -moz-border-radius: 0.6rem;
+    -ms-border-radius: 0.6rem;
+    -o-border-radius: 0.6rem;
+  }
+.btn-1 {
+  cursor: pointer;
+  margin: 3rem auto 0 auto;
+  width: 100%;
+    display: inline-block;
+    padding: 1rem 2.2rem;
+    font-size: 15px;
+    background-color: rgba(57, 57, 57, 0.224);
+    color: white;
+    border-radius: 0.6rem;
+    -webkit-border-radius: 0.6rem;
+    -moz-border-radius: 0.6rem;
+    -ms-border-radius: 0.6rem;
+    -o-border-radius: 0.6rem;
+  }
+
+  /* .back-ani{
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .back-ani img{
+    position: absolute;
+    top: 0;
+  } */
